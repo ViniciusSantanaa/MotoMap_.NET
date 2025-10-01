@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sc2I2cY/EDXM2PXWHnn3FSae8HNWAWBZ2vAHoVQRC2I=",
+  "Source": "MotoMap.Api",
+  "BasePath": "_content/MotoMap.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
