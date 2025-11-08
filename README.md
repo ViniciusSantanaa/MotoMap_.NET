@@ -36,8 +36,15 @@ Instruções de execução
 git clone https://github.com/ViniciusSantanaa/MotoMap_.NET.git
 cd MotoMap.Api
 
-3. Configurar o banco de dados no arquivo appsettings.json
-   dotnet ef database update
+3. Configurar o banco de dados 
+Edite o arquivo appsettings.json e configure sua connection string
+"ConnectionStrings": {
+  "DefaultConnection": "Host=localhost;Port=5432;Database=motoMapDb;Username=postgres;Password=*****"
+}"
+
+Criar o banco via migrations
+Executar no terminal:
+dotnet ef database update
 
 4. Executar API
    dotnet run
@@ -61,4 +68,12 @@ Exemplos de uso
     "yardId": 1
   }
 ]
+
+Para executar os testes
+No terminal:
+dotnet test
+
+Saída esperada do teste:
+Passed!  ✔  X tests successful
+
 
