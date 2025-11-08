@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\models\\yard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\models\\yard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\dtos\\yarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\dtos\\yarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\dtos\\readerminidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\dtos\\readerminidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\dtos\\readerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\dtos\\readerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\dtos\\createyarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\dtos\\createyarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\dtos\\createreaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\dtos\\createreaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\controllers\\yardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\controllers\\yardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\controllers\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\controllers\\motorcyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\controllers\\motorcyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|c:\\users\\vinicius\\desktop\\motomap.api\\motomap.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33EAE66-3852-407F-907C-45977CEA4FC7}|MotoMap.Api\\MotoMap.Api.csproj|solutionrelative:motomap.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\.gitignore",
+              "RelativeDocumentMoniker": "MotoMap.Api\\.gitignore",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\.gitignore",
+              "RelativeToolTip": "MotoMap.Api\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-08T18:16:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\ReaderDto.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Dtos\\ReaderDto.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\ReaderDto.cs",
+              "RelativeToolTip": "MotoMap.Api\\Dtos\\ReaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:20:16.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "MotoMap.Api\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:17:45.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MotoMap.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:14:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MotoMap.Api\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:41:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateReaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\CreateReaderDto.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Dtos\\CreateReaderDto.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\CreateReaderDto.cs",
+              "RelativeToolTip": "MotoMap.Api\\Dtos\\CreateReaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:17:05.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateYardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\CreateYardDto.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Dtos\\CreateYardDto.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\CreateYardDto.cs",
+              "RelativeToolTip": "MotoMap.Api\\Dtos\\CreateYardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:14.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReaderMiniDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\ReaderMiniDto.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Dtos\\ReaderMiniDto.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\ReaderMiniDto.cs",
+              "RelativeToolTip": "MotoMap.Api\\Dtos\\ReaderMiniDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:31:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YardDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\YardDto.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Dtos\\YardDto.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Dtos\\YardDto.cs",
+              "RelativeToolTip": "MotoMap.Api\\Dtos\\YardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:34.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\Reader.cs",
+              "RelativeToolTip": "MotoMap.Api\\Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:21:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yard.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\Yard.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Models\\Yard.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\Yard.cs",
+              "RelativeToolTip": "MotoMap.Api\\Models\\Yard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:31:51.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Models\\User.cs",
+              "RelativeToolTip": "MotoMap.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:15:17.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MotoMap.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\appsettings.json",
+              "RelativeToolTip": "MotoMap.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T11:16:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Program.cs",
+              "RelativeToolTip": "MotoMap.Api\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T03:12:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YardsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\YardsController.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Controllers\\YardsController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\YardsController.cs",
+              "RelativeToolTip": "MotoMap.Api\\Controllers\\YardsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:27:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReadersController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\ReadersController.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Controllers\\ReadersController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\ReadersController.cs",
+              "RelativeToolTip": "MotoMap.Api\\Controllers\\ReadersController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:26:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MotorcyclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\MotorcyclesController.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Controllers\\MotorcyclesController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\MotorcyclesController.cs",
+              "RelativeToolTip": "MotoMap.Api\\Controllers\\MotorcyclesController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:50:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MotoMap.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\MotoMap.Api\\MotoMap.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MotoMap.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:16:05.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

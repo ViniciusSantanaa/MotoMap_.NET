@@ -1,13 +1,20 @@
-﻿namespace MotoMap.Api.Dtos;
-
-public class YardDto
+﻿namespace MotoMap.Api.Dtos
 {
-    public int Id { get; set; }
-    public string Name { get; set; } = null!;
-    public string Address { get; set; } = null!;
 
-    public int ReadersCount { get; set; }
-    public int MotorcyclesCount { get; set; }
+    public class YardDto
+    {
 
-    public List<LinkDto> Links { get; set; } = new();
+        public int Id { get; set; }
+
+        public string Name { get; set; } = string.Empty;
+
+
+        public string Address { get; set; } = string.Empty;
+
+        public int ReaderCount { get; set; }
+
+        public List<ReaderMiniDto>? Readers { get; set; }
+
+        public List<LinkDto> Links { get; set; } = new();
+    }
 }
